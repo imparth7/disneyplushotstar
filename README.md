@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -67,4 +66,3 @@ Home page Crousel
 
 ## Updates
 This project is on hold for development now, but it will be soon developed.
->>>>>>> b4ddf847a3d1d235021f4575cecd3e09f411e0ea
